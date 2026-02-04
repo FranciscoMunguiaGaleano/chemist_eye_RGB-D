@@ -111,7 +111,8 @@ The station will begin transmitting sensor data immediately.
 
 ## Related Repositories
 
-Main system:
+⚠️ This repository is part of the Chemist Eye ecosystem.
+For the full system architecture, please visit:
 
 [https://github.com/FranciscoMunguiaGaleano/chemist_eye](https://github.com/FranciscoMunguiaGaleano/chemist_eye)
 
